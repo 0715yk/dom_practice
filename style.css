@@ -1,0 +1,19 @@
+.toggle-part {
+  display: flex;
+}
+
+.book-table {
+  border: 1px solid black;
+  margin-top: 20px;
+}
+
+th,
+td {
+  text-align: center;
+  border: 1px solid #444444;
+  min-width: 50px;
+}
+
+td {
+  min-width: 20px;
+}
